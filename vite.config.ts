@@ -4,7 +4,7 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/dictionary-app',
+  base: '/dictionary-app-for-mc',
   plugins: [react()],
   resolve: {
     alias: {
